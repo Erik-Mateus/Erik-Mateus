@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Erik-Mateus 😁
+## Bem-vindo(a) ao perfil de Erik-Mateus 
 
  <div>
    <a href="https://github.com/Erik-Mateus">
