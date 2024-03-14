@@ -4,7 +4,7 @@
    <a href="https://github.com/Erik-Mateus">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erik-Mateus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-Mateus&layout=compact&langs_count=6&theme=tokyonight"/>
-
+</a>
 </div>
 
  <br>
